@@ -1,0 +1,9 @@
+1 Laravel
+2 db
+3 css/js
+4 blade(head header TD)
+5 Try module
+6 auth
+7 email message
+8 + open/close form
+9 db first-parent : name secName img second-parent: name secName img
